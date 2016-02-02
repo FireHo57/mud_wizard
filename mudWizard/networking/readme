@@ -1,1 +1,5 @@
 Folder containing all the stuff to do with network processing etc etc
+
+Should the central game push information to the connected 'clients' or should clients 'pull' information?
+
+
