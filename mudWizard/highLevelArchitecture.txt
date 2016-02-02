@@ -1,0 +1,31 @@
+Just a bit of a design document that will proabably get changed quite a lot.
+
+Basic concept:
+
+MUD WIZARD!
+
+it's a multi user dungeon full of wizards!
+
+I was thinking you could start in something called the 'firmament';
+that is pure unmolded creative potential.
+
+I quite like the idea of players being able to create their own 'worlds'
+from the firmamanet complete with their own specific ruleset (like no combat or
+everythign must be the derivative of a bunny or something) haven't quite worked out how that's going to work.
+
+each player would be the 'God' of their 'world' and have complete control over
+entrance and exit (forcible or otherwise) of every creature inside.
+
+
+craft spells from a basic starting set?
+
+Implementation:
+
+-python based
+-use the asyncio library
+-ascii gui elements
+-top down (for now, as is above)
+
+OK.
+
+LETS GO. 
